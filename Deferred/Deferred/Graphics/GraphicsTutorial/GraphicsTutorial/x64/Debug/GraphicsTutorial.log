@@ -1,0 +1,4 @@
+﻿  Application.cpp
+C:\Users\Kamil\Documents\Submitted Graphics\Deferred\Deferred\Graphics\GraphicsTutorial\GraphicsTutorial\Application.cpp(193,10): warning C4101: 'hr': unreferenced local variable
+C:\Users\Kamil\Documents\Submitted Graphics\Deferred\Deferred\Graphics\GraphicsTutorial\GraphicsTutorial\Application.cpp(200,10): warning C4101: 'hr': unreferenced local variable
+  GraphicsTutorial.vcxproj -> C:\Users\Kamil\Documents\Submitted Graphics\Deferred\Deferred\Graphics\GraphicsTutorial\x64\Debug\GraphicsTutorial.exe

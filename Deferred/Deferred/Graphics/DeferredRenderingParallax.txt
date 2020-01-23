@@ -1,0 +1,5 @@
+//Three render Targets needed
+Position
+gNormal
+AlbedoSpec
+Do parallax calcuations in firstShaderPass;
